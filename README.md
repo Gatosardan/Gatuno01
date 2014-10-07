@@ -9,3 +9,5 @@ ahora?
 sii funciona
 
 ahi va otra modificacion
+
+prueba con pagina cerrada
